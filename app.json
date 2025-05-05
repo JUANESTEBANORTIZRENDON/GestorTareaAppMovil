@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "GestorTareas",
+    "slug": "GestorTareas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#a8f3c8"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "icon": "./assets/icon.png"
+    },
+    "android": {
+      "icon": "./assets/icon.png",
+      "edgeToEdgeEnabled": true,
+      "package": "com.juan24.GestorTareas"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ddc2acf5-4be4-4ca9-b8de-387b3c041497"
+      }
+    },
+    "owner": "juan24"
+  }
+}
